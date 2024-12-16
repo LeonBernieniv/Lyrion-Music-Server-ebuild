@@ -179,7 +179,7 @@ lms_starting_instr() {
 	elog "\thttp://localhost:${httpport:-9000}/"
 	echo ""
 
-	elog "Privacy note: as of version 8.5.1 Logitech Music Server includes an analytic"
+	elog "Privacy note: as of version 8.5.1 Logitech Media Server includes an analytic"
 	elog "reporting plugin to aid developers in identifying elements for which support"
 	elog "may be dropped. If you do not like to participate you can disable this plugin"
 	elog "in the LMS Server Settings"
